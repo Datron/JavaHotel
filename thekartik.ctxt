@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ee
+comment0.target=void\ reservation(int)
+comment1.params=ju
+comment1.target=void\ availability(int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3
