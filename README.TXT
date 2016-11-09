@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE:Java Hotel booking app
+PURPOSE OF PROJECT:see name   
+VERSION or DATE:1.0.0
+HOW TO START THIS PROJECT:Run in BlueJ(tested and working)
+AUTHORS:Kartik Gajendra and Aditya Prathipna
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+
